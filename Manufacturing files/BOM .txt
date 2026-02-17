@@ -1,0 +1,22 @@
+Partlist exported from Schematic a to z at 17-02-2026 17:17
+
+Reference Designators Quantity Description                          Package     Value                Manufacturer Manufacturer Part Number Vendor Vendor Part Number Top/Bottom 
+                      1        PCB Board                            Board                                                                                                       
+C1, C2, C3            3        POLARIZED CAPACITOR, American symbol 140CLH-0810 100u                                                                                 Bottom     
+C4, C7                2        CAPACITOR, American symbol           C0805       10n                                                                                  Bottom     
+C5, C6                2        CAPACITOR, American symbol           C0805       220n                                                                                 Bottom     
+D1                    1        Diode Rectifier - Popular Parts      DO41-10     DIODE_1N4004_DO41-10 onsemi       1N4004                                             Top        
+JP1                   1        PIN HEADER                           1X02                                                                                             Top        
+JP2                   1        PIN HEADER                           1X04                                                                                             Top        
+LED1                  1        LED                                  LED5MM                                                                                           Top        
+R1                    1        RESISTOR, American symbol            R0805       100k                                                                                 Bottom     
+R2                    1        RESISTOR, American symbol            R0805       10k                                                                                  Bottom     
+R3, R7                2        RESISTOR, American symbol            R0805       2.2k                                                                                 Bottom     
+R4                    1        RESISTOR, American symbol            R0805       5.1k                                                                                 Bottom     
+R5                    1        RESISTOR, American symbol            R0805       22k                                                                                  Bottom     
+R6                    1        RESISTOR, American symbol            R0805       51k                                                                                  Bottom     
+RP1                   1        Bourns PTV09                         PTV09A-X    100k                                                                                 Top        
+RP2                   1        Bourns PTV09                         PTV09A-X    500k                                                                                 Top        
+RP3                   1        Bourns PTV09                         PTV09A-X    2k                                                                                   Top        
+RP4, RP5              2        Bourns PTV09                         PTV09A-X    10k                                                                                  Top        
+T1, T2                2        NPN TRANSISTOR                       TO92        2N3904                                                                               Top        
